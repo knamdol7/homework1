@@ -1,0 +1,12 @@
+img{
+    height: 150px;
+    width: 180px;
+}
+
+ul {
+   padding: 0px
+}
+li {
+   display: inline-block;
+   width: auto;
+   }
