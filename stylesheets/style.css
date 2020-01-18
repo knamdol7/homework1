@@ -2,9 +2,13 @@ img{
     height: 150px;
     width: 180px;
 }
+p {
+    text-indent: 10px
+}
 
 ul {
    padding: 0px;
+   
 }
 li {
    display: inline-block;
