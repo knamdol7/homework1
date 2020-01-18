@@ -5,7 +5,13 @@ img{
 
 ul {
    padding: 0px
-       text-indent: 50px;
+       div.a {
+  text-indent: 50px;
+}
+
+div.b {
+  text-indent: -2em;
+}
 }
 li {
    display: inline-block;
