@@ -3,12 +3,11 @@ img{
     width: 180px;
 }
 p {
-    text-indent: 10px
+    text-indent: 10px;
 }
 
 ul {
    padding: 0px;
-   
 }
 li {
    display: inline-block;
