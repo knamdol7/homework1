@@ -5,9 +5,6 @@ img{
 
 ul {
    padding: 0px;
-    li {
-        text-indent: 10px;
-    }
 }
 li {
    display: inline-block;
